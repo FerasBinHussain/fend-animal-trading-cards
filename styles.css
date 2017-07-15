@@ -1,0 +1,48 @@
+<style type="text/css">
+
+		.animal-information{
+			text-align: justify;
+   			 text-justify: inter-word;
+   			 padding: 3px;
+   			 margin: 3px;
+		}
+		.card-header {
+			height: auto;
+   			width: auto;
+   			text-align: center;
+			border:outset;
+		}
+		.card-info{
+			height: auto;
+   			width: auto;
+   			text-align: center;
+			border:outset;
+		}	
+		.main {
+			 width: 350px;
+			  height: 100%;
+			  border: 2px black solid;
+			  margin: auto;
+			  padding: 10px;
+		}
+		img {
+		   
+   			width: 300px;
+   			padding: 3px;
+   			margin: 3px;
+		}
+		
+		ul {
+ 	 		list-style-type: none;
+ 	 		 text-justify: inter-word ;
+ 	 		 text-align: left;
+		}
+		.animal-facts {
+			font-style: italic;
+			 text-align: justify;
+   			 text-justify: inter-word;
+   			 padding: 3px;
+   			 margin: 3px;
+		}
+
+	</style>
